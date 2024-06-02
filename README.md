@@ -1,5 +1,5 @@
    <h1 align="center">Hi 👋, I'm Maharaja V</h1>
-    <h3 align="center">
+    <h3 align="left">
         I am Maharaja , a passionate Front-End Developer with over 2 years of
         experience in crafting engaging and interactive web experiences. My
         expertise lies in HTML, CSS, and JavaScript, along with proficiency in
