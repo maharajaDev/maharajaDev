@@ -9,6 +9,7 @@
     </h3>
     - 👨‍💻 All of my projects are available at
     [https://maharaja-portfolio.vercel.app/]
+    <br/>
     - 💬 Ask me about **Html,CSS,JS,Reactjs, Nextjs,Angular** - 📫 How to reach me
     **maharajadev2000@gmail.com**
     <h3 align="left">Connect with me:</h3>
